@@ -1,4 +1,4 @@
-# ParticlesLightweight-
+# ParticlesLightweight
 Demo "particles.js v2.0.0" project - lightweight JavaScript library for creating particles 
 
 ## Animation
@@ -10,3 +10,6 @@ Demo "particles.js v2.0.0" project - lightweight JavaScript library for creating
 ## Preview 
 
 [![Foo](https://github.com/AvgustPol/ParticlesLightweight-/blob/master/ParticlesJsDemo.png?raw=true)](https://github.com/AvgustPol/ParticlesLightweight-/blob/master/ParticlesJsDemo.png?raw=true)
+
+Particles JS:
+https://vincentgarreau.com/particles.js/
